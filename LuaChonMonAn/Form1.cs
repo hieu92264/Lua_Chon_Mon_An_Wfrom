@@ -50,6 +50,7 @@ namespace LuaChonMonAn
             if(textChoices.Text.Length > 0) BTNChoices.Enabled = true;
         }
         //di chuyen mon an tu list A sang List B
+        //test pull
         private void BTNAdd_Click(object sender, EventArgs e)
         {
             int i;
